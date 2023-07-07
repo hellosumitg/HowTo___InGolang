@@ -1,0 +1,3 @@
+module UseGoRoutinesToAggregateDataAsynchronously
+
+go 1.18

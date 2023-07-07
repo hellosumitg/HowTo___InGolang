@@ -1,5 +1,6 @@
 # HowTo___InGolang
-Collection of all crucial parts of applications and their proper implementations in Golang. Special Thanks to Anthony De Meulemeester🙏😇
+Collection of all crucial parts of applications and their proper implementations in Golang. 
+-Special Thanks to Anthony De Meulemeester🙏😇
 
 ### day1 : [ComposeInterfaces](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ComposeInterfaces)
 

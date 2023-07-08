@@ -7,3 +7,5 @@ Collection of all crucial parts of applications and their proper implementations
 ### day2 : [UseGoRoutinesToAggregateDataAsynchronously](https://github.com/hellosumitg/HowTo___InGolang/tree/main/UseGoRoutinesToAggregateDataAsynchronously)
 
 ### day3 : [TestHTTPHandlers](https://github.com/hellosumitg/HowTo___InGolang/tree/main/TestHTTPHandlers)
+
+###day4 : [ContextPackage](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ContextPackage)

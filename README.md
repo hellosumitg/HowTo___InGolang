@@ -9,3 +9,5 @@ Collection of all crucial parts of applications and their proper implementations
 ### day3 : [TestHTTPHandlers](https://github.com/hellosumitg/HowTo___InGolang/tree/main/TestHTTPHandlers)
 
 ### day4 : [ContextPackage](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ContextPackage)
+
+### day5 : [ComposeTypedFunction](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ComposeTypedFunctions)

@@ -11,3 +11,5 @@ Collection of all crucial parts of applications and their proper implementations
 ### day4 : [ContextPackage](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ContextPackage)
 
 ### day5 : [ComposeTypedFunction](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ComposeTypedFunctions)
+
+### day6 : [BuildAndStructureAMicroservice](https://github.com/hellosumitg/HowTo___InGolang/tree/main/BuildAndStructureAMicroservice)

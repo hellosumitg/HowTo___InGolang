@@ -13,3 +13,5 @@ Collection of all crucial parts of applications and their proper implementations
 ### day5 : [ComposeTypedFunction](https://github.com/hellosumitg/HowTo___InGolang/tree/main/ComposeTypedFunctions)
 
 ### day6 : [BuildAndStructureAMicroservice](https://github.com/hellosumitg/HowTo___InGolang/tree/main/BuildAndStructureAMicroservice)
+
+### day7 : [Pointers](https://github.com/hellosumitg/HowTo___InGolang/tree/main/Pointers)
